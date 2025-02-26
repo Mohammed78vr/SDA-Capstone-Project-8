@@ -1,0 +1,6 @@
+openai
+streamlit
+dotenv
+fastapi 
+uvicorn 
+pydantic
