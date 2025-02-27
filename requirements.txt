@@ -1,6 +1,6 @@
+fastapi
+uvicorn
 openai
 streamlit
 python-dotenv
-fastapi
-uvicorn
-dotenv
+psycopg2-binary
