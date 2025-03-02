@@ -6,6 +6,8 @@
 
 
 .env 
+chroma_db/
+pdf_store/
 
 # User-specific files
 *.rsuser
